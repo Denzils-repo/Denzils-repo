@@ -12,8 +12,8 @@ Console.log("Rookie FullStack/Roblox Game Developer")
 [![GitHub Streak](https://streak-stats.demolab.com?user=Denzils-repo&theme=graywhite&border_radius=10)](https://git.io/streak-stats)
 
 ## My Socials:  <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="32" height="32"></picture>
-<a href="mailto:denzil1974.biz@gmail.com"><img src="icons/gmail.svg" hspace="5"><a href="https://www.linkedin.com/in/DenzilDeepak/"><img src="icons/linkedin.svg" hspace="5"></a><a href="https://www.instagram.com/izzyyuniverse"><img src="icons/instagram.svg" height="50px" hspace="5"></a> <a href="https://www.youtube.com/@Izzy_wastaken"><img src="icons/youtube.svg" hspace="5"></a>
-<a href="https://www.discordapp.com/users/1260528805861265535"><img src="icons/discord.svg" height="50px" hspace="5"></a>
+<a href="mailto:denzil1974.biz@gmail.com"><img src="icons/monocrome/gmail.svg" hspace="5"><a href="https://www.linkedin.com/in/DenzilDeepak/"><img src="icons/monocrome/linkedin.svg" hspace="5"></a><a href="https://www.instagram.com/izzyyuniverse"><img src="icons/monocrome/instagram.svg" height="50px" hspace="5"></a> <a href="https://www.youtube.com/@Izzy_wastaken"><img src="icons/monocrome/youtube.svg" hspace="5"></a>
+<a href="https://www.discordapp.com/users/1260528805861265535"><img src="icons/monocrome/discord.svg" height="50px" hspace="5"></a>
 <br>
 ## GameDev Socials: <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b2/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b2/512.gif" alt="🎲" width="32" height="32"></picture>
 
