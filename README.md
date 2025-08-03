@@ -16,7 +16,7 @@ Console.log("Rookie FullStack/Roblox Game Developer")
 [![GitHub Streak](https://streak-stats.demolab.com?user=Denzils-repo&theme=graywhite&border_radius=10)](https://git.io/streak-stats)
 
 <details>
-  <summary>More Abour me:</summary>
+  <summary>More Abour me...</summary>
 
   
   ---
