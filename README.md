@@ -9,6 +9,8 @@ Console.log("Rookie FullStack/Roblox Game Developer")
 ## About Me:<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32"></picture>  
 <p>I'm a Computer Science undergrad with a passion for full-stack development, cloud technologies, and game development. I’m actively working on real-world projects to sharpen my skills and learn by doing. I'm looking for opportunities where I can grow as a developer, gain hands-on experience, and contribute to building meaningful software solutions.</p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Denzils-repo)](https://git.io/streak-stats)
+
 ## My Socials:  <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="32" height="32"></picture>
 <a href="mailto:denzil1974.biz@gmail.com"><img src="icons/gmail.svg" hspace="5"><a href="https://www.linkedin.com/in/DenzilDeepak/"><img src="icons/linkedin.svg" hspace="5"></a><a href="https://www.instagram.com/izzyyuniverse"><img src="icons/instagram.svg" height="50px" hspace="5"></a> <a href="https://www.youtube.com/@Izzy_wastaken"><img src="icons/youtube.svg" hspace="5"></a>
 <a href="https://www.discordapp.com/users/1260528805861265535"><img src="icons/discord.svg" height="50px" hspace="5"></a>
