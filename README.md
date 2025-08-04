@@ -41,6 +41,5 @@ Console.log("Rookie FullStack/Roblox Game Developer")
 </details>
 
 ---
-<div><img src="https://visitor-badge.laobi.icu/badge?page_id=Denzils-repo.Denzils-repo&"  /></div>
-
 #### last updated 3/8/2025 <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.gif" alt="🚧" width="32" height="32"></picture>
+[//]: # (<div><img src="https://visitor-badge.laobi.icu/badge?page_id=Denzils-repo.Denzils-repo&"  /></div>)
