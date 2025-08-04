@@ -2,7 +2,7 @@
 
 ### He/Him 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1260528805861265535?borderRadius=10px&theme=dark&idleMessage=%22I'm%20probably%20working%20on%20something%20i%20guess%22&animatedDecoration=false)](https://discord.com/users/1260528805861265535)<br>  
+[![Discord Presence](https://lanyard.cnrad.dev/api/1260528805861265535?bg=#1e1e1e&borderRadius=10px&theme=dark&idleMessage=%22I'm%20probably%20working%20on%20something%20i%20guess%22&animatedDecoration=false)](https://discord.com/users/1260528805861265535)<br>  
 ```js
 Console.log("Rookie FullStack/Roblox Game Developer")
 ```
