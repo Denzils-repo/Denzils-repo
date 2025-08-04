@@ -6,7 +6,7 @@
 ```js
 Console.log("Rookie FullStack/Roblox Game Developer")
 ```
-## About Me:<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32"></picture>  
+## About Me:<div>  <img src="https://visitor-badge.laobi.icu/badge?page_id=Denzils-repo.Denzils-repo&"  /></div><picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32"></picture>  
 
 ###### 📍India, Banglore. ######
 
