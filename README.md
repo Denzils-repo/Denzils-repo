@@ -5,7 +5,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCiQ4sxk4UzlntibtPVh1p9W1O5JVm73A5Mg&s"><br>  
 ```js
 Console.log("Rookie FullStack/Roblox Game Developer")
-```
+```  
 <div><img src="https://visitor-badge.laobi.icu/badge?page_id=Denzils-repo.Denzils-repo&"  /></div>
 
 ## About Me:<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32"></picture>
