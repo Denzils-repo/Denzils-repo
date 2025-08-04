@@ -5,8 +5,8 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCiQ4sxk4UzlntibtPVh1p9W1O5JVm73A5Mg&s"><br>  
 ```js
 Console.log("Rookie FullStack/Roblox Game Developer")
-```  
-<div><img src="https://visitor-badge.laobi.icu/badge?page_id=Denzils-repo.Denzils-repo&"  /></div>
+```
+[![Discord Presence](https://lanyard.cnrad.dev/api/:1260528805861265535)](https://discord.com/users/:1260528805861265535)
 
 ## About Me:<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32"></picture>
   
@@ -25,7 +25,7 @@ Console.log("Rookie FullStack/Roblox Game Developer")
   
   ## My Socials:  <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="32" height="32"></picture>
 <p align="left"><a href="mailto:denzil1974.biz@gmail.com"><img src="icons/monocrome/gmail.svg" hspace="5"><a href="https://www.linkedin.com/in/DenzilDeepak/"><img src="icons/monocrome/linkedin.svg" hspace="5"></a><a href="https://www.instagram.com/izzyyuniverse"><img src="icons/monocrome/instagram.svg" height="50px" hspace="5"></a> <a href="https://www.youtube.com/@Izzy_wastaken"><img src="icons/monocrome/youtube.svg" hspace="5"></a>
-<a href="https://www.discordapp.com/users/1260528805861265535"><img src="icons/monocrome/discord.svg" height="50px" hspace="5"></a></p>
+<a href="https://discord.com/users/:1260528805861265535"><img src="icons/monocrome/discord.svg" height="50px" hspace="5"></a></p>
 <br>
 
 ## GameDev Socials: <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b2/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b2/512.gif" alt="🎲" width="32" height="32"></picture>
@@ -42,4 +42,6 @@ Console.log("Rookie FullStack/Roblox Game Developer")
 </details>
 
 ---
+<div><img src="https://visitor-badge.laobi.icu/badge?page_id=Denzils-repo.Denzils-repo&"  /></div>
+
 #### last updated 3/8/2025 <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.gif" alt="🚧" width="32" height="32"></picture>
