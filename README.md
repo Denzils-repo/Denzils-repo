@@ -39,6 +39,6 @@ Console.log("Rookie FullStack/Roblox Game Developer")
 </details>
 
 #### last updated 3/8/2025 <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.gif" alt="🚧" width="32" height="32"></picture>
-[//]: # (<div><img src="https://visitor-badge.laobi.icu/badge?page_id=Denzils-repo.Denzils-repo&"  /></div>)
+<!-- # (<div><img src="https://visitor-badge.laobi.icu/badge?page_id=Denzils-repo.Denzils-repo&"  /></div>)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1260528805861265535?borderRadius=10px&theme=dark&idleMessage=%22I'm%20probably%20working%20on%20something%20i%20guess%22&animatedDecoration=false)](https://discord.com/users/1260528805861265535)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1260528805861265535?borderRadius=10px&theme=dark&idleMessage=%22I'm%20probably%20working%20on%20something%20i%20guess%22&animatedDecoration=false)](https://discord.com/users/1260528805861265535) -->
