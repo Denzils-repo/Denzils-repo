@@ -30,7 +30,7 @@ Console.log("Rookie FullStack/Roblox Game Developer")
 <!--  ## My Socials:  <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d/512.gif" alt="🤝" width="32" height="32"></picture> -->
 
   
-## GameDev Socials: <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b2/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b2/512.gif" alt="🎲" width="32" height="32"></picture>
+<!-- ## GameDev Socials: <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b2/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b2/512.gif" alt="🎲" width="32" height="32"></picture> -->
 
 <a href="https://www.roblox.com/users/7035669180/profile"><img src="icons/rblx.svg" height="50px"></a>  
 
