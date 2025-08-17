@@ -1,7 +1,6 @@
 <div align="center">
 
-# Hey, I'm Denzil <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c/512.gif" alt="🙌" width="32" height="32"></picture>
-
+# Hey, I'm Denzil 
 <br>
 
  
@@ -34,7 +33,7 @@ Console.log("Rookie FullStack/Roblox Game Developer")
 
 <a href="https://www.roblox.com/users/7035669180/profile"><img src="icons/rblx.svg" height="50px"></a>  -->
 
-## Known Technologies: <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32"></picture>
+## Known Technologies:
 
 <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50px" hspace="5" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50px" hspace="5"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="50px" hspace="5" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50px" hspace="5" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="50px" hspace="5" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50px" hspace="5" /><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Luau_Logo_%28Programming_Language%29.svg/60px-Luau_Logo_%28Programming_Language%29.svg.png?20220524083445" height="50px" hspace="5" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="50px" hspace="5" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="45px" hspace="5"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="50px" hspace="5" /></p>
 
@@ -44,5 +43,9 @@ Console.log("Rookie FullStack/Roblox Game Developer")
 
 #### last updated 3/8/2025 <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.gif" alt="🚧" width="32" height="32"></picture>
 <!-- # (<div><img src="https://visitor-badge.laobi.icu/badge?page_id=Denzils-repo.Denzils-repo&"  /></div>)
+
+<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c/512.gif" alt="🙌" width="32" height="32"></picture>
+
+<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32"></picture>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1260528805861265535?borderRadius=10px&theme=dark&idleMessage=%22I'm%20probably%20working%20on%20something%20i%20guess%22&animatedDecoration=false)](https://discord.com/users/1260528805861265535) -->
