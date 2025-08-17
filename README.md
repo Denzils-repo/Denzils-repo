@@ -10,7 +10,7 @@ Console.log("Rookie FullStack/Roblox Game Developer")
 <div>
 <section>
  
-## About Me:(He/Him) <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32"></picture></section><section><a href="mailto:denzil1974.biz@gmail.com"><img src="icons/monocrome/gmail.svg" height="25px"  hspace="5"><a href="https://www.linkedin.com/in/DenzilDeepak/"><img src="icons/monocrome/linkedin.svg" height="25px"  hspace="5"></a><a href="https://www.instagram.com/izzyyuniverse"><img src="icons/monocrome/instagram.svg" height="25px" hspace="5"></a> <a href="https://www.youtube.com/@Izzy_wastaken"><img src="icons/monocrome/youtube.svg" height="25px" hspace="5"></a><a href="https://discord.com/users/:1260528805861265535"><img src="icons/monocrome/discord.svg" height="25px" hspace="5"></a></section>
+## About Me:(He/Him) </section><section><a href="mailto:denzil1974.biz@gmail.com"><img src="icons/monocrome/gmail.svg" height="25px"  hspace="5"><a href="https://www.linkedin.com/in/DenzilDeepak/"><img src="icons/monocrome/linkedin.svg" height="25px"  hspace="5"></a><a href="https://www.instagram.com/izzyyuniverse"><img src="icons/monocrome/instagram.svg" height="25px" hspace="5"></a> <a href="https://www.youtube.com/@Izzy_wastaken"><img src="icons/monocrome/youtube.svg" height="25px" hspace="5"></a><a href="https://discord.com/users/:1260528805861265535"><img src="icons/monocrome/discord.svg" height="25px" hspace="5"></a></section>
  </div>
  
 ###### 📍India, Banglore. ######
@@ -43,6 +43,8 @@ Console.log("Rookie FullStack/Roblox Game Developer")
 
 #### last updated 3/8/2025 <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.gif" alt="🚧" width="32" height="32"></picture>
 <!-- # (<div><img src="https://visitor-badge.laobi.icu/badge?page_id=Denzils-repo.Denzils-repo&"  /></div>)
+
+|<picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="32" height="32"></picture>
 
 <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c/512.gif" alt="🙌" width="32" height="32"></picture>
 
