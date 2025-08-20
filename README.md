@@ -40,7 +40,7 @@ I’m a Computer Science undergrad passionate about full-stack development, clou
 
 <hr>
 <h4>My PortFolio:(in progress)</h4>
-<h4>Check Out My Project Archiver:(in progress)</h4>
+<h4>Check Out My Project Archive:(in progress)</h4>
 <hr>
 
 #### Last Updated: 20/8/2025...
