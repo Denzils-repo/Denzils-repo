@@ -19,8 +19,9 @@ Console.log("Rookie FullStack/Roblox Game Developer")
 [![GitHub Streak](https://streak-stats.demolab.com?user=Denzils-repo&theme=graywhite&border_radius=10)](https://git.io/streak-stats)
 
 
-I’m a Computer Science undergrad passionate about full-stack development, cloud technologies, and game development. I enjoy learning by building real-world projects—whether experimenting with web apps, exploring cloud services, or creating game assets.  
-My goal is to keep growing as a developer, gain practical experience, and contribute to meaningful software solutions.
+I’m a Computer Science undergrad passionate about full-stack development, cloud technologies, and game development. I enjoy learning by building real-world projects—whether it’s experimenting with web apps, exploring how cloud services power modern systems, or creating game assets. Along the way, I’ve been sharpening both my technical skills and my problem-solving mindset.
+
+My goal is to keep growing as a developer, gain practical experience, and contribute to meaningful, user-focused software solutions. I’m excited about opportunities that challenge me, help me collaborate with others, and allow me to bring creative ideas to life.
 
 <h3>My Tech Stack:</h3>
 
