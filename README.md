@@ -14,7 +14,7 @@ Console.log("Rookie FullStack/Roblox Game Developer")
 <h3>About Me:(He/Him)</h3> <section><a href="mailto:denzil1974.biz@gmail.com"><img src="icons/monocrome/gmail.svg" height="25px"  hspace="5"><a href="https://www.linkedin.com/in/DenzilDeepak/"><img src="icons/monocrome/linkedin.svg" height="25px"  hspace="5"></a><a href="https://www.instagram.com/izzyyuniverse"><img src="icons/monocrome/instagram.svg" height="25px" hspace="5"></a> <a href="https://www.youtube.com/@Izzy_wastaken"><img src="icons/monocrome/youtube.svg" height="25px" hspace="5"></a><a href="https://discord.com/users/:1260528805861265535"><img src="icons/monocrome/discord.svg" height="25px" hspace="5"></a></section>
  </div><hr>
 
-###### ⚲ India, Bangalore
+###### 📍 India, Bangalore
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Denzils-repo&theme=graywhite&border_radius=10)](https://git.io/streak-stats)
 
