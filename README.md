@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 
 # Hey, I'm Denzil 
 <br>
@@ -7,21 +7,26 @@
 ```js
 Console.log("Rookie FullStack/Roblox Game Developer")
 ```
-<div>
-<section>
+<hr>
  
-## About Me:(He/Him) </section><section><a href="mailto:denzil1974.biz@gmail.com"><img src="icons/monocrome/gmail.svg" height="25px"  hspace="5"><a href="https://www.linkedin.com/in/DenzilDeepak/"><img src="icons/monocrome/linkedin.svg" height="25px"  hspace="5"></a><a href="https://www.instagram.com/izzyyuniverse"><img src="icons/monocrome/instagram.svg" height="25px" hspace="5"></a> <a href="https://www.youtube.com/@Izzy_wastaken"><img src="icons/monocrome/youtube.svg" height="25px" hspace="5"></a><a href="https://discord.com/users/:1260528805861265535"><img src="icons/monocrome/discord.svg" height="25px" hspace="5"></a></section>
- </div>
+<div>
+
+<h3>About Me:(He/Him)</h3> <section><a href="mailto:denzil1974.biz@gmail.com"><img src="icons/monocrome/gmail.svg" height="25px"  hspace="5"><a href="https://www.linkedin.com/in/DenzilDeepak/"><img src="icons/monocrome/linkedin.svg" height="25px"  hspace="5"></a><a href="https://www.instagram.com/izzyyuniverse"><img src="icons/monocrome/instagram.svg" height="25px" hspace="5"></a> <a href="https://www.youtube.com/@Izzy_wastaken"><img src="icons/monocrome/youtube.svg" height="25px" hspace="5"></a><a href="https://discord.com/users/:1260528805861265535"><img src="icons/monocrome/discord.svg" height="25px" hspace="5"></a></section>
+ </div><hr>
  
 ###### 📍India, Banglore. ######
 
 
-<p>I'm a Computer Science undergrad with a passion for full-stack development, cloud technologies, and game development. I’m actively working on real-world projects to sharpen my skills and learn by doing. I'm looking for opportunities where I can grow as a developer, gain hands-on experience, and contribute to building meaningful software solutions.</p>
+<p>I’m a Computer Science undergrad with a passion for full-stack development, cloud technologies, and game development. I enjoy learning by building real-world projects—whether it’s experimenting with web apps, exploring how cloud services work, or creating game assets. My goal is to keep growing as a developer, gain practical experience, and contribute to meaningful software solutions that make an impact.</p>
 
+<div>
+<details><summary><h4>My Activity</h4></summary>
+ 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Denzils-repo&theme=graywhite&border_radius=10)](https://git.io/streak-stats)
 
+</details>
 <details>
-  <summary>More Abour me...</summary>
+  <summary><h4>My Tech Stack</h4></summary>
 
   
   ---
@@ -39,6 +44,7 @@ Console.log("Rookie FullStack/Roblox Game Developer")
 
 ---
 </details>
+</div>
 </div>
 
 #### last updated 3/8/2025 <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6a7/512.gif" alt="🚧" width="32" height="32"></picture>
