@@ -21,9 +21,6 @@ Console.log("Rookie FullStack/Roblox Game Developer")
 
 I’m a Computer Science undergrad passionate about full-stack development, cloud technologies, and game development. I enjoy learning by building real-world projects—whether experimenting with web apps, exploring cloud services, or creating game assets. My goal is to keep growing as a developer, gain practical experience, and contribute to meaningful software solutions.<br><br>
 
-<h4>Check Out My Project Archiver:(in progress)</h4>
-<h4>My PortFolio:(in progress)</h4>
-
 <h3>My Tech Stack:</h3>
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=white)
@@ -39,6 +36,10 @@ I’m a Computer Science undergrad passionate about full-stack development, clou
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=Blender&logoColor=white)
+
+
+<h4>My PortFolio:(in progress)</h4>
+<h4>Check Out My Project Archiver:(in progress)</h4>
 
 #### Last Updated: 20/8/2025...
 
