@@ -36,6 +36,7 @@ I’m a Computer Science undergrad passionate about full-stack development, clou
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=Blender&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logo color=white)
 
 
 <hr>
