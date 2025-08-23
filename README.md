@@ -5,7 +5,7 @@
 
  
 ```js
-Console.log("Rookie FullStack/Roblox Game Developer")
+Console.log("Rookie FullStack/ Game Developer")
 ```
 <hr>
  
