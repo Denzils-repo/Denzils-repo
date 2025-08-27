@@ -40,6 +40,14 @@ I’m a Computer Science undergrad passionate about full-stack development, clou
 
 
 <hr>
+<h4>
+ Recent Project:<br>
+  <a href="https://denzils-repo.github.io/todolist/">
+    <img src="https://img.shields.io/badge/Todolist-white?style=for-the-badge&logo=gitbook&logoColor=black" alt="Todolist"/>
+  </a>
+</h4>
+
+
 <h4>My PortFolio:(in progress)</h4>
 <h4>Check Out My Project Archive:(in progress)</h4>
 <hr>
