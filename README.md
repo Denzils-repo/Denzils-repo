@@ -52,7 +52,7 @@ I’m a Computer Science undergrad passionate about full-stack development, clou
 <h4>Check Out My Project Archive:(in progress)</h4>
 <hr>
 
-#### Last Updated: 15/9/2025...
+#### Last Updated: 15/9/2025....
 
 <hr>
 </div>
