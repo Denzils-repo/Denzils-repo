@@ -16,8 +16,9 @@ Console.log("Rookie FullStack/ Game Developer")
 
 ###### 📍 India, Bangalore
 
--The calender plugin goes here-
-
+<div align="center">
+  <img src="./metrics.plugin.isocalendar.fullyear.svg" alt="Isometric full-year calendar"/>
+</div>
 
 I’m a Computer Science undergrad passionate about full-stack development, cloud technologies, and game development. I enjoy learning by building real-world projects—whether experimenting with web apps, exploring cloud services, or creating game assets. My goal is to keep growing as a developer, gain practical experience, and contribute to meaningful software solutions.<br>
 
