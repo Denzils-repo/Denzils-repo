@@ -38,7 +38,7 @@ I’m a Computer Science undergrad passionate about full-stack development, clou
 <hr>
 <h4>
  Recent Projects:<br>
- <a href="[https://denzils-repo.github.io/todolist/](https://denzils-repo.github.io/)">
+ <a href="https://denzils-repo.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=gitbook&logoColor=black" alt="portfolio"/>
   </a>
   <a href="https://denzils-repo.github.io/todolist/">
