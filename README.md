@@ -28,7 +28,7 @@ I’m a Computer Science undergrad passionate about full-stack development, clou
 ![CSharp](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=Csharp&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-000000?style=for-the-badge&logo=Lua&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=HTML5&logoColor=white)
-![TailWind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=CSS3&logoColor=white)
+![TailWind](https://img.shields.io/badge/TailWind-000000?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=Blender&logoColor=white)
