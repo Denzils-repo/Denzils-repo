@@ -20,22 +20,25 @@ I’m a Computer Science undergrad passionate about full-stack development, clou
 <hr>
 <h3>My Tech Stack:</h3>
 
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=OpenJDK&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=Csharp&logoColor=white)
-![Luau](https://img.shields.io/badge/Luau-000000?style=for-the-badge&logo=Lua&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white)
-![TailWind](https://img.shields.io/badge/TailWind-000000?style=for-the-badge&logo=TailWind&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white)
-![Node](https://img.shields.io/badge/Node-js-000000?style=for-the-badge&logo=Nodejs&logoColor=white)
-![Mongo](https://img.shields.io/badge/Mongo-000000?style=for-the-badge&logo=Mongo&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=Blender&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=Git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-000000?style=for-the-badge&logo=lua&logoColor=white)
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+
 
 <hr>
 <h4>
