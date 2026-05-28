@@ -46,9 +46,6 @@ I’m a Computer Science postgrad passionate about full-stack development, cloud
  <a href="https://denzils-repo.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=gitbook&logoColor=black" alt="portfolio"/>
   </a>
-  <a href="https://denzils-repo.github.io/todolist/">
-    <img src="https://img.shields.io/badge/Todolist-white?style=for-the-badge&logo=gitbook&logoColor=black" alt="Todolist"/>
-  </a>
 </h4>
 
 
