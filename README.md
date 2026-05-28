@@ -16,7 +16,7 @@ Console.log("Rookie MERN Stack/ Game Developer")
 ###### 📍 India, Bangalore
 <section><a href="mailto:denzil1974.biz@gmail.com"><img src="icons/monocrome/gmail.svg" height="25px"  hspace="5"><a href="https://www.linkedin.com/in/DenzilDeepak/"><img src="icons/monocrome/linkedin.svg" height="25px"  hspace="5"></a><a href="https://www.instagram.com/izzyyuniverse"><img src="icons/monocrome/instagram.svg" height="25px" hspace="5"></a> <a href="https://www.youtube.com/@Izzy_wastaken"><img src="icons/monocrome/youtube.svg" height="25px" hspace="5"></a><a href="https://discord.com/users/:1260528805861265535"><img src="icons/monocrome/discord.svg" height="25px" hspace="5"></a></section>
 
-I’m a Computer Science undergrad passionate about full-stack development, cloud technologies, and game development. I enjoy learning by building real-world projects—whether experimenting with web apps, exploring cloud services, or creating game assets. My goal is to keep growing as a developer, gain practical experience, and contribute to meaningful software solutions.<br>
+I’m a Computer Science postgrad passionate about full-stack development, cloud technologies, and game development. I enjoy learning by building real-world projects—whether experimenting with web apps, exploring cloud services, or creating game assets. My goal is to keep growing as a developer, gain practical experience, and contribute to meaningful software solutions.<br>
 <hr>
 <h3>My Tech Stack:</h3>
 
@@ -56,6 +56,6 @@ I’m a Computer Science undergrad passionate about full-stack development, clou
 <h4>Check Out My Project Archive:(in progress)</h4>
 <hr>
 
-#### Last Updated: 15/9/2025....
+#### Last Updated: 28/5/2026....
 
 </div>
