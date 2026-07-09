@@ -45,6 +45,6 @@ I’m a Computer Science postgrad passionate about full-stack development, cloud
 
 <hr>
 
-#### Last Updated: 28/5/2026
+#### Last Updated: 9/7/2026
 
 </div>
