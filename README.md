@@ -1,24 +1,24 @@
-<div align="center">
+# Hey, I'm Denzil
 
-# Hey, I'm Denzil 
-<br>
-
- 
 ```js
-Console.log("Rookie MERN Stack/ Game Developer")
+console.log("Rookie MERN Stack / Game Developer")
 ```
-<hr>
-<div>
 
-<h3>About Me:(He/Him)</h3> 
- </div>
+### About Me (He/Him)
+📍 India, Bangalore
 
-###### 📍 India, Bangalore
-<section><a href="mailto:denzil1974.biz@gmail.com"><img src="icons/monocrome/gmail.svg" height="25px"  hspace="5"><a href="https://www.linkedin.com/in/DenzilDeepak/"><img src="icons/monocrome/linkedin.svg" height="25px"  hspace="5"></a></section>
+[<img src="icons/monocrome/gmail.svg" height="25px" style="margin-right: 5px;">](mailto:denzil1974.biz@gmail.com) [<img src="icons/monocrome/linkedin.svg" height="25px" style="margin-right: 5px;">](https://www.linkedin.com/in/DenzilDeepak/)
 
-I’m a Computer Science postgrad passionate about full-stack development, cloud technologies, and game development. I enjoy learning by building real-world projects—whether experimenting with web apps, exploring cloud services, or creating game assets. My goal is to keep growing as a developer, gain practical experience, and contribute to meaningful software solutions.<br>
-<hr>
-<h3>My Tech Stack:</h3>
+I’m a Computer Science postgrad passionate about full-stack development, cloud technologies, and game development. I enjoy learning by building real-world projects—whether experimenting with web apps, exploring cloud services, or creating game assets. My goal is to keep growing as a developer, gain practical experience, and contribute to meaningful software solutions.
+
+---
+
+### Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=Denzils-repo&background=000000&border=000000&fire=ffffff&ring=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&currStreakLabel=ffffff&dates=ffffff)](https://git.io/streak-stats)
+
+---
+
+### My Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
@@ -34,25 +34,10 @@ I’m a Computer Science postgrad passionate about full-stack development, cloud
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
-<hr>
-<h4>
- Recent Projects:<br>
- <a href="https://denzils-repo.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=gitbook&logoColor=black" alt="portfolio"/>
-  </a>
-</h4>
-
-
-<h4>My PortFolio:(in progress)</h4>
-<h4>Check Out My Project Archive:(in progress)</h4>
-<hr>
-
-#### Last Updated: 28/5/2026....
-
-</div>
+*Last Updated: 28/5/2026*
