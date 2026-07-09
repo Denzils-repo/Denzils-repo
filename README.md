@@ -1,24 +1,29 @@
+<div align="center">
+
 # Hey, I'm Denzil
 
 ```js
 console.log("Rookie MERN Stack / Game Developer")
 ```
 
-### About Me (He/Him)
+<hr>
+
+<h3>About Me (He/Him)</h3>
 📍 India, Bangalore
 
-[<img src="icons/monocrome/gmail.svg" height="25px" style="margin-right: 5px;">](mailto:denzil1974.biz@gmail.com) [<img src="icons/monocrome/linkedin.svg" height="25px" style="margin-right: 5px;">](https://www.linkedin.com/in/DenzilDeepak/)
+<a href="mailto:denzil1974.biz@gmail.com"><img src="icons/monocrome/gmail.svg" height="25px" style="margin: 0 5px;"></a> <a href="https://www.linkedin.com/in/DenzilDeepak/"><img src="icons/monocrome/linkedin.svg" height="25px" style="margin: 0 5px;"></a>
 
 I’m a Computer Science postgrad passionate about full-stack development, cloud technologies, and game development. I enjoy learning by building real-world projects—whether experimenting with web apps, exploring cloud services, or creating game assets. My goal is to keep growing as a developer, gain practical experience, and contribute to meaningful software solutions.
 
----
+<hr>
 
-### Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Denzils-repo&background=000000&border=000000&fire=ffffff&ring=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&currStreakLabel=ffffff&dates=ffffff)](https://git.io/streak-stats)
+<h3>Contribution Streak</h3>
 
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=Denzils-repo&theme=transparent&hide_border=true&fire=ffffff&ring=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
 
-### My Tech Stack
+<hr>
+
+<h3>My Tech Stack</h3>
 
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
@@ -38,6 +43,8 @@ I’m a Computer Science postgrad passionate about full-stack development, cloud
 ![Blender](https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 
----
+<hr>
 
-*Last Updated: 28/5/2026*
+#### Last Updated: 28/5/2026
+
+</div>
